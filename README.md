@@ -3,5 +3,5 @@ hallo, ini adalah seri belajar saya menyimpan/mengupload gambar dengan node js f
 - isi semua yang ada di dalam file ".env"
 - kemudian jalankan perintah
   # npm install
-- untuk menjalankan servern ya ketikan
+- untuk menjalankan servernya ketikan
   # npm start
